@@ -1,0 +1,33 @@
+{
+    "customers": [
+        {
+            "name": "1",
+            "count": 20000
+        },
+        {
+            "name": "3",
+            "count": 20000
+        },
+        {
+            "name": "4",
+            "count": 4445
+        },
+        {
+            "name": "5",
+            "count": 4445
+        },
+        {
+            "name": "yolooo",
+            "count": 8888
+        },
+        {
+            "name": "dqzd",
+            "count": 588
+        },
+        {
+            "name": "kl",
+            "count": 454
+        }
+    ],
+    "limit": 500
+}
